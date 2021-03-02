@@ -16,7 +16,7 @@ What this project will have:
 * Model Evaluation
 
 
-# Model train on this dataset
+# These Model trained on the dataset
 * Logistic Regression - 83% Accuracy
 * Random Forest Classifier - 80% Accuracy
 * Decision Tree CLassifier - 71% Accuracy
